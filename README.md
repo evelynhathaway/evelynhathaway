@@ -5,7 +5,7 @@
 Current Project
 </th>
 <th scope="col">
-Last Project
+Last Personal Project
 </th>
 </tr>
 </thead>
