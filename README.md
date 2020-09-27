@@ -33,4 +33,4 @@ Will Mutate ([`will-mutate`](https://github.com/ceoss/will-mutate)) is a Babel p
 
 ## 💼 I'm currently working at...
 
-**Blue Origin!** 🚀🌌 I am developing customer-focused web applications. Previously I also built a killer web app that manages high-performance computing jobs on AWS. [Learn more on my LinkedIn](https://www.linkedin.com/in/evelynhathaway/).
+**Blue Origin!** 🚀🌌 I am developing customer-focused web applications. Previously, I also built a killer web app that manages high-performance computing jobs on AWS. [Learn more on my LinkedIn](https://www.linkedin.com/in/evelynhathaway/).
