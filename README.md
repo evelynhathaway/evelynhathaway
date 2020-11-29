@@ -29,7 +29,7 @@ Overengineering my portfolio ([`personal-website`](https://github.com/evelynhath
 
 Adding strong TypeScript typings for Bind Deep ([`bind-deep`](https://github.com/evelynhathaway/bind-deep)). [The first draft was undoubtedly a challenge, but so worth it!](https://twitter.com/eeveedev/status/1270210745788055552)
 
-Will Mutate ([`will-mutate`](https://github.com/ceoss/will-mutate)) is a Babel plugin that alerts if a mutation event occurred on inputted objects — essentially, a silly version of TypeScript read-only types... but at runtime. And [oh golly does it make use of ES6 Proxies](https://github.com/ceoss/will-mutate/blob/master/plugin/proxy.js).
+Will Mutate ([`will-mutate`](https://github.com/ceoss/will-mutate)) is a Babel plugin that alerts if a mutation event occurred on inputted objects — essentially, a silly version of TypeScript read-only types... but at runtime. And [oh golly does it make use of ES6 Proxies](https://github.com/ceoss/will-mutate/blob/master/plugin/proxify.js).
 
 ## 💼 I'm currently working at...
 
