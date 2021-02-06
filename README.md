@@ -29,7 +29,7 @@ Overengineering my portfolio! Fun fact, the background header image is generated
 
 [Rocketry.js](https://github.com/rocketryjs) is my mega project where I control RGB lights and buttons on MIDI controllers. It's a exciting take on hardware control using TypeScript.
 
-Occationally I will also work on my glitch art style [pixel sorting web application](https://github.com/evelynhathaway/pixel-sort) that uses off the main thread scripting in React.
+Occasionally I will also work on my glitch art style [pixel sorting web application](https://github.com/evelynhathaway/pixel-sort) that uses off the main thread scripting in React.
 
 
 ## 💼 I'm currently working at...
