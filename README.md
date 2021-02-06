@@ -34,7 +34,7 @@ Overengineering my portfolio ([`personal-website`](https://github.com/evelynhath
 
 ## 🕗 Some interesting past work...
 
-<details><summary><h2>Show more<h2></summary>
+<details><summary>Show more</summary>
 
 Adding strong TypeScript typings for Bind Deep ([`bind-deep`](https://github.com/evelynhathaway/bind-deep)). [The first draft was undoubtedly a challenge, but so worth it!](https://twitter.com/eeveedev/status/1270210745788055552)
 
