@@ -32,8 +32,9 @@ Overengineering my portfolio ([`personal-website`](https://github.com/evelynhath
 **Blue Origin!** 🚀🌌 I am developing customer-focused web applications. Previously, I also built a killer web app that manages high-performance computing jobs on AWS. [Learn more on my LinkedIn](https://www.linkedin.com/in/evelynhathaway/).
 
 
+## 🕗 Some interesting past work...
 
-<details><summary><h2>🕗 Some interesting past work...<h2></summary>
+<details><summary><h2>Show more<h2></summary>
 
 Adding strong TypeScript typings for Bind Deep ([`bind-deep`](https://github.com/evelynhathaway/bind-deep)). [The first draft was undoubtedly a challenge, but so worth it!](https://twitter.com/eeveedev/status/1270210745788055552)
 
