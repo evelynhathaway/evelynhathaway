@@ -25,12 +25,18 @@ _Projects update every ~5 min._
 
 ## 👩‍💻 I'm currently working on...
 
-Overengineering my portfolio ([`personal-website`](https://github.com/evelynhathaway/personal-website)). Fun fact, the background header image is generated using an offscreen canvas using the user agent string, so [take a peek at it](https://beta.evelyn.dev/) on a few devices!
+Overengineering my portfolio ([`personal-website`](https://github.com/evelynhathaway/personal-website)). Fun fact, the background header image is generated using an offscreen canvas using the user agent string, so [take a peek at it](https://evelyn.dev/) on a few devices!
+
+## 💼 I'm currently working at...
+
+**Blue Origin!** 🚀🌌 I am developing customer-focused web applications. Previously, I also built a killer web app that manages high-performance computing jobs on AWS. [Learn more on my LinkedIn](https://www.linkedin.com/in/evelynhathaway/).
+
+
+
+<details><summary><h2>🕗 Some interesting past work...<h2></summary>
 
 Adding strong TypeScript typings for Bind Deep ([`bind-deep`](https://github.com/evelynhathaway/bind-deep)). [The first draft was undoubtedly a challenge, but so worth it!](https://twitter.com/eeveedev/status/1270210745788055552)
 
 Will Mutate ([`will-mutate`](https://github.com/ceoss/will-mutate)) is a Babel plugin that alerts if a mutation event occurred on inputted objects — essentially, a silly version of TypeScript read-only types... but at runtime. And [oh golly does it make use of ES6 Proxies](https://github.com/ceoss/will-mutate/blob/master/plugin/proxify.js).
 
-## 💼 I'm currently working at...
-
-**Blue Origin!** 🚀🌌 I am developing customer-focused web applications. Previously, I also built a killer web app that manages high-performance computing jobs on AWS. [Learn more on my LinkedIn](https://www.linkedin.com/in/evelynhathaway/).
+</details>
