@@ -1,28 +1,3 @@
-<table>
-<thead>
-<tr>
-<th scope="col">
-Current Project
-</th>
-<th scope="col">
-Last Personal Project
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td valign="baseline" align="center">
-<a href="https://badgen.net/runkit/evelynhathaway/5efff0f4a433390013bee3fe?cache=300"><img alt="Open dynamic image" src="https://badgen.net/runkit/evelynhathaway/5efff0f4a433390013bee3fe?cache=300" /></a>
-</td>
-<td valign="baseline" align="center">
-<a href="https://badgen.net/runkit/evelynhathaway/5f0021fbf94b97001ad16899?cache=300"><img alt="Open dynamic image" src="https://badgen.net/runkit/evelynhathaway/5f0021fbf94b97001ad16899?cache=300" /></a>
-</td>
-</tr>
-</tbody>
-</table>
-
-_Projects update every ~5 min._
-
 <h2><span aria-hidden="true">👩‍💻</span> I'm currently working on...</h2>
 
 <img alt="Webfront Studio logo" width="128" height="128" align="right" src="https://github.com/webfrontstudio/studio/raw/main/.github/icon.png"/>
@@ -43,7 +18,7 @@ _Projects update every ~5 min._
 [Learn more on my LinkedIn](https://www.linkedin.com/in/evelynhathaway/).
 
 
-<h2><span aria-hidden="true">🕗💻</span> Some interesting past work...</h2>
+<h2><span aria-hidden="true">🕗</span> Some interesting past work...</h2>
 
 <details><summary>Show more</summary>
 
