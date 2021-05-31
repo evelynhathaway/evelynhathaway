@@ -2,7 +2,7 @@
 
 <img alt="Webfront Studio logo" width="128" height="128" align="right" src="https://github.com/webfrontstudio/studio/raw/main/.github/icon.png"/>
 
-**[Webfront Studio](https://github.com/webfrontstudio)!** There is a gap in accessible website generators that don't require development experience. So, I am aiming to produce an accessible and open source website creator geared towards small businesses and organizations. Want to get involved? [Shoot me an email](mailto:github@evelyn.dev).
+**[Webfront Studio](https://github.com/webfrontstudio)!** There is a gap in accessible website generators that don't require development experience. So, I am aiming to produce an accessible and open source website creator geared towards small businesses and organizations.
 
 <h3><span aria-hidden="true">🌈</span> Goals</h3>
 
