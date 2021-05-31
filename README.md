@@ -23,25 +23,27 @@ Last Personal Project
 
 _Projects update every ~5 min._
 
-## 👩‍💻 I'm currently working on...
+<h2><span aria-hidden="true">👩‍💻</span> I'm currently working on...</h2>
 
-**Webfront Studio ([@webfrontstudio](https://github.com/webfrontstudio))!** There is a gap in accessible website generators that don't require development experience. So, I am aiming to produce an accessible and open source website creator geared towards small businesses and organizations. Want to get involved? [Shoot me an email](mailto:github@evelyn.dev).
+<img alt="Webfront Studio logo" width="128" height="128" align="right" src="https://github.com/webfrontstudio/studio/raw/main/.github/icon.png"/>
 
-### 🌈 Goals
+**[Webfront Studio](https://github.com/webfrontstudio)!** There is a gap in accessible website generators that don't require development experience. So, I am aiming to produce an accessible and open source website creator geared towards small businesses and organizations. Want to get involved? [Shoot me an email](mailto:github@evelyn.dev).
+
+<h3><span aria-hidden="true">🌈</span> Goals</h3>
 
 - Entirely open and transparent, including the source code
 - Feature a content management system that guides users into making accessible and inclusive content
 - Require no development knowledge from small organizations
 - Be self-hostable and extensible for developers
 
-## 💼 I'm currently working at...
+<h2><span aria-hidden="true">💼</span> I'm currently working at...</h2>
 
 **[Blue Origin](https://www.blueorigin.com/)!** I am developing web applications with delightful user experiences that put people and payloads in space. 🚀🌌
 
 [Learn more on my LinkedIn](https://www.linkedin.com/in/evelynhathaway/).
 
 
-## 🕗 Some interesting past work...
+<h2><span aria-hidden="true">🕗💻</span> Some interesting past work...</h2>
 
 <details><summary>Show more</summary>
 
