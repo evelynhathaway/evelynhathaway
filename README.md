@@ -27,7 +27,7 @@ _Projects update every ~5 min._
 
 **Webfront Studio ([@webfrontstudio](https://github.com/webfrontstudio))!** There is a gap in accessible website generators that don't require development experience. So, I am aiming to produce an accessible and open source website creator geared towards small businesses and organizations. Want to get involved? [Shoot me an email](mailto:github@evelyn.dev).
 
-### 🥅🌈 Goals
+### 🌈 Goals
 
 - Entirely open and transparent, including the source code
 - Feature a content management system that guides users into making accessible and inclusive content
